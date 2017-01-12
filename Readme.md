@@ -1,4 +1,4 @@
-![](Help/images/templates-hero.png)
+![](Help/Images/templates-hero.png)
 
 # Bjango Color Creator Templates
 
