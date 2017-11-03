@@ -5,6 +5,7 @@
 2 November 2017
 
 - Added colour blindness testing to the Photoshop template.
+- Added Sketch 48 template with the sRGB colour profile assigned.
 
 ### 1.1
 
